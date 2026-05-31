@@ -1,6 +1,6 @@
-# staychat-rag
-
 # StayChat AI – RAG-Based Hotel Q&A System
+
+---
 
 ## Architecture Overview
 

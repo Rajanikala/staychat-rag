@@ -1,0 +1,278 @@
+[
+  {
+    "id": "desc_001",
+    "category": "hotel_description",
+    "hotel": "The Oceanview Grand",
+    "text": "The Oceanview Grand is a 5-star luxury beachfront resort located in Goa, India. Established in 2005, this iconic property offers panoramic views of the Arabian Sea from every room. The hotel blends colonial Portuguese architecture with modern amenities, creating a timeless retreat. With 220 elegantly appointed rooms and suites, it is renowned for its world-class hospitality, award-winning cuisine, and serene spa. The property is ideal for honeymooners, families, and business travelers seeking an elevated experience."
+  },
+  {
+    "id": "desc_002",
+    "category": "hotel_description",
+    "hotel": "The Oceanview Grand",
+    "text": "The Oceanview Grand holds a Forbes Travel Guide Star Rating and has been consistently ranked among the top 10 beach resorts in India by Condé Nast Traveller. The hotel features a private 300-meter beach stretch, three swimming pools, and a dedicated children's activity zone. Its lush tropical gardens span over 5 acres and host open-air events year-round. Free WiFi is available across all areas of the property, including the beach and poolside."
+  },
+  {
+    "id": "desc_003",
+    "category": "hotel_description",
+    "hotel": "Urban Nest Boutique Hotel",
+    "text": "Urban Nest Boutique Hotel is a chic 4-star property nestled in the heart of Bengaluru's vibrant Indiranagar neighborhood. Designed for the modern urban traveler, it offers 60 stylishly curated rooms combining industrial aesthetics with warm, homely touches. The hotel is particularly popular with tech professionals, startup founders, and leisure travelers exploring the city's café and pub culture. Free high-speed WiFi is complimentary for all guests."
+  },
+  {
+    "id": "desc_004",
+    "category": "hotel_description",
+    "hotel": "Urban Nest Boutique Hotel",
+    "text": "Urban Nest Boutique Hotel prides itself on personalized service. Each guest receives a welcome kit with local street food recommendations, a Namma Metro card, and a curated city guide. The hotel runs a popular 'Meet the Neighborhood' walking tour every Saturday morning. Its rooftop lounge, The Perch, is one of Indiranagar's most Instagrammed spots, offering craft cocktails and live acoustic music on weekends."
+  },
+  {
+    "id": "desc_005",
+    "category": "hotel_description",
+    "hotel": "Heritage Haveli Udaipur",
+    "text": "Heritage Haveli Udaipur is a converted 18th-century nobleman's mansion reimagined as a luxury 5-star heritage hotel. Overlooking Lake Pichola with views of the City Palace, this 45-room property offers an immersive royal Rajasthani experience. Hand-painted murals, antique furnishings, and traditional jharokha windows transport guests to a bygone era. The hotel has been featured in Vogue, Architectural Digest, and Lonely Planet as one of India's most romantic properties."
+  },
+  {
+    "id": "desc_006",
+    "category": "hotel_description",
+    "hotel": "Heritage Haveli Udaipur",
+    "text": "Heritage Haveli Udaipur offers curated cultural experiences including classical Rajasthani music performances at sunset, hands-on miniature painting workshops, and private boat rides on Lake Pichola. The in-house historian conducts guided tours of the property's 300-year-old architecture. Complimentary breakfast is included in all room tariffs. The hotel is a member of Small Luxury Hotels of the World."
+  },
+  {
+    "id": "desc_007",
+    "category": "hotel_description",
+    "hotel": "Summit Serenity Resort",
+    "text": "Summit Serenity Resort is a 4-star mountain retreat located in Manali, Himachal Pradesh, at an altitude of 2,050 meters. Surrounded by dense deodar forests and offering unobstructed views of the Beas River valley and snow-capped Pir Panjal range, it is a sanctuary for nature lovers and adventure seekers. The resort comprises 80 wooden chalets and alpine suites, each with a private balcony. Free WiFi is available in all rooms and common areas."
+  },
+  {
+    "id": "desc_008",
+    "category": "hotel_description",
+    "hotel": "City Comfort Inn",
+    "text": "City Comfort Inn is a budget-friendly 3-star hotel located near Chennai Central Railway Station, making it an ideal base for transit travelers and business guests. With 95 clean, no-frills rooms, the hotel emphasizes affordability without sacrificing essential comforts. Complimentary breakfast is served daily from 7:00 AM to 10:00 AM, and free WiFi is available throughout the property. The hotel's 24-hour front desk and same-day laundry service are highly rated by solo travelers."
+  },
+  {
+    "id": "desc_009",
+    "category": "hotel_description",
+    "hotel": "Backwaters Bliss Resort",
+    "text": "Backwaters Bliss Resort is an eco-conscious 4-star property set on the tranquil Vembanad Lake backwaters in Kumarakom, Kerala. The resort features 35 traditional Kerala-style cottages and floating villas built using reclaimed teak and bamboo. Solar panels power 70% of the property's energy needs. Guests arrive by a private canoe transfer from the jetty. The resort is ideal for couples seeking a romantic, off-grid escape surrounded by paddy fields and lotus ponds."
+  },
+  {
+    "id": "desc_010",
+    "category": "hotel_description",
+    "hotel": "The Metro Plaza Hotel",
+    "text": "The Metro Plaza Hotel is a modern 4-star business hotel in Hyderabad's HITEC City financial district. Popular with corporate travelers and conference delegations, it offers 150 rooms, three meeting halls with AV equipment, and a dedicated business center. The hotel provides complimentary airport shuttle service and free WiFi. It is connected to the nearest metro station via a covered walkway, offering quick access to major tech campuses."
+  },
+  {
+    "id": "amen_001",
+    "category": "amenities",
+    "hotel": "The Oceanview Grand",
+    "text": "The Oceanview Grand offers an extensive range of amenities. Dining options include Thalassa, a seafood-focused fine dining restaurant; Spice Route, a Pan-Asian specialty restaurant; and The Deck Bar, a beachfront cocktail lounge serving sundowners. The Ananda Spa offers Ayurvedic treatments, hot stone massages, and a Turkish hammam. Fitness facilities include an outdoor infinity pool with sea views, a heated indoor pool, a fully equipped 24-hour gym, yoga pavilion, and a tennis court."
+  },
+  {
+    "id": "amen_002",
+    "category": "amenities",
+    "hotel": "The Oceanview Grand",
+    "text": "Room amenities at The Oceanview Grand include king or twin beds with premium Belgian linen, rain showers and freestanding bathtubs in Deluxe rooms and above, private balconies in all categories, 55-inch Smart TV, Nespresso machine, in-room safe, and complimentary minibar replenished daily. Suites additionally offer butler service, a separate living room, and an outdoor plunge pool. Free WiFi with speeds up to 100 Mbps is included in all room rates."
+  },
+  {
+    "id": "amen_003",
+    "category": "amenities",
+    "hotel": "Heritage Haveli Udaipur",
+    "text": "Heritage Haveli Udaipur's amenities are designed to immerse guests in Rajasthani culture. The Jasmine Courtyard pool is a zero-edge plunge pool overlooking the lake, open from 7 AM to 9 PM. Dining is at Rani Mahal, serving royal Rajasthani thali menus in a candlelit dining hall. The Zenana Spa offers traditional Ubtan facials, Marma point therapy, and rose and saffron scrubs using locally sourced ingredients. Free WiFi is available. Complimentary breakfast is included for all guests."
+  },
+  {
+    "id": "amen_004",
+    "category": "amenities",
+    "hotel": "Urban Nest Boutique Hotel",
+    "text": "Urban Nest Boutique Hotel amenities include a rooftop pool with city skyline views, a specialty coffee bar serving single-origin brews, a co-working space with high-speed internet open 24 hours, a bicycle lending program, and a pet-friendly policy (small dogs and cats welcome with prior notice). All rooms have 43-inch smart TVs, air conditioning, blackout curtains, and premium bath amenities. Complimentary breakfast buffet is included in all rates."
+  },
+  {
+    "id": "amen_005",
+    "category": "amenities",
+    "hotel": "Summit Serenity Resort",
+    "text": "Summit Serenity Resort offers adventure and wellness amenities tailored to mountain travelers. Activities include guided treks, mountain biking, river rafting on the Beas, and paragliding packages. The resort has a bonfire pit and stargazing deck. The Himalayan Wellness Spa offers hot spring therapy, deep tissue massages, and aromatherapy. Dining at The Pine Table focuses on Himachali cuisine with ingredients sourced from local farms. Free WiFi is available in the main lodge and restaurant areas. Complimentary breakfast is included."
+  },
+  {
+    "id": "amen_006",
+    "category": "amenities",
+    "hotel": "Backwaters Bliss Resort",
+    "text": "Backwaters Bliss Resort amenities include complimentary kayaking and canoe rides, a private jetty for sunrise fishing, an organic farm-to-table restaurant serving traditional Kerala Sadya meals, an outdoor yoga deck overlooking the backwaters, and a Kairali Ayurveda treatment center offering Panchakarma detox packages. Complimentary breakfast is included in all stays. Free WiFi is available in common areas. A small library with regional literature and board games is available for guest use."
+  },
+  {
+    "id": "amen_007",
+    "category": "amenities",
+    "hotel": "City Comfort Inn",
+    "text": "City Comfort Inn provides essential amenities for the value-conscious traveler. The hotel features a 24-hour front desk, luggage storage, laundry service, and a rooftop restaurant serving South Indian and North Indian cuisine. Free WiFi is available throughout the property. All rooms include air conditioning, flat-screen TV, hot water, and daily housekeeping. A basic fitness room with treadmill and weights is available from 6 AM to 10 PM. Complimentary breakfast is included in all room rates."
+  },
+  {
+    "id": "amen_008",
+    "category": "amenities",
+    "hotel": "The Metro Plaza Hotel",
+    "text": "The Metro Plaza Hotel offers business-centric amenities including three fully equipped conference rooms accommodating 20 to 200 delegates, high-speed fiber internet, a 24-hour business center with printing and secretarial services, an executive lounge with complimentary evening cocktails, and valet parking. The Horizon Restaurant serves multi-cuisine breakfast, lunch, and dinner. Complimentary breakfast is included for all bookings. Free WiFi is available throughout the property."
+  },
+  {
+    "id": "review_001",
+    "category": "guest_review",
+    "hotel": "The Oceanview Grand",
+    "text": "Review by Priya S. (Verified Stay, October 2024, Rating: 5/5): 'Absolutely magical! The Oceanview Grand exceeded every expectation. The beach is pristine and feels private. Our Deluxe Sea View room was immaculate — the bathtub overlooking the sea was a dream. Breakfast at Thalassa was phenomenal with the freshest seafood. Staff, especially the concierge team, went above and beyond. The spa was heavenly. Worth every rupee for a special occasion.'"
+  },
+  {
+    "id": "review_002",
+    "category": "guest_review",
+    "hotel": "The Oceanview Grand",
+    "text": "Review by Rahul M. (Verified Stay, December 2024, Rating: 4/5): 'A luxurious experience overall. The rooms are spacious and well-appointed. However, the pool area gets crowded during peak holiday season. Room service was a bit slow on our second evening. The beachside cocktails and sunset views made up for it. WiFi was fast and worked well even on the beach. Would definitely return during the off-season.'"
+  },
+  {
+    "id": "review_003",
+    "category": "guest_review",
+    "hotel": "Heritage Haveli Udaipur",
+    "text": "Review by Ananya K. (Verified Stay, November 2024, Rating: 5/5): 'The most romantic hotel I have ever stayed at. Waking up to the City Palace across the lake and eating breakfast in the Jasmine Courtyard was surreal. The architecture is breathtaking — every corner is a photo opportunity. The Rajasthani thali dinner was the highlight of our trip. The cultural performances added such authenticity. Highly recommend for honeymoons or anniversaries.'"
+  },
+  {
+    "id": "review_004",
+    "category": "guest_review",
+    "hotel": "Heritage Haveli Udaipur",
+    "text": "Review by David L. (Verified Stay, January 2025, Rating: 3/5): 'The property is stunning and the history is palpable. However, for the price point, I expected faster WiFi and a larger pool. The rooms are charming but some fixtures feel dated. The staff were helpful and the breakfast spread was excellent. The lake boat ride was a wonderful touch. Mixed feelings — if you care more about ambiance than modern amenities, you will love it.'"
+  },
+  {
+    "id": "review_005",
+    "category": "guest_review",
+    "hotel": "Urban Nest Boutique Hotel",
+    "text": "Review by Siddharth V. (Verified Stay, February 2025, Rating: 5/5): 'Perfect base for exploring Bangalore. The location in Indiranagar is unbeatable — I walked to incredible restaurants, cafés, and bars every evening. The room was compact but very smartly designed with excellent storage. The co-working space was a lifesaver for my work calls. The breakfast spread is impressive for a boutique hotel. Staff had great local knowledge. The bicycle lending was a fun bonus!'"
+  },
+  {
+    "id": "review_006",
+    "category": "guest_review",
+    "hotel": "Urban Nest Boutique Hotel",
+    "text": "Review by Meera T. (Verified Stay, March 2025, Rating: 4/5): 'Loved the vibe and the rooftop! The Perch bar is genuinely one of the best spots in Indiranagar. The room was clean and comfortable though walls are a bit thin — could hear hallway noise. Free WiFi was fast and consistent. Breakfast was good but limited options for vegetarians. The hotel is pet-friendly which was great for our small dog. Would stay again.'"
+  },
+  {
+    "id": "review_007",
+    "category": "guest_review",
+    "hotel": "Summit Serenity Resort",
+    "text": "Review by Kabir A. (Verified Stay, April 2025, Rating: 5/5): 'Summit Serenity is the best mountain resort I have stayed at in India. The chalet was cozy with a real wood-burning fireplace, and the balcony view of the valley was breathtaking especially at sunrise. The guided Beas Valley trek was phenomenal. Food at The Pine Table was delicious — the trout and local dal were standout dishes. Staff were warm and attentive. Complimentary breakfast was generous. Highly recommend!'"
+  },
+  {
+    "id": "review_008",
+    "category": "guest_review",
+    "hotel": "Summit Serenity Resort",
+    "text": "Review by Nisha P. (Verified Stay, January 2025, Rating: 4/5): 'Beautiful resort surrounded by nature. The spa was very good. WiFi connectivity in the chalets was a bit spotty — better in the main lodge. The fireplace kept us warm during a cold January night. Only complaint is that the adventure activities require advance booking and slots fill up quickly in peak season. Road to the resort can be tricky in heavy snowfall. Plan ahead!'"
+  },
+  {
+    "id": "review_009",
+    "category": "guest_review",
+    "hotel": "Backwaters Bliss Resort",
+    "text": "Review by Rohan G. (Verified Stay, December 2024, Rating: 5/5): 'A slice of paradise. Arriving by canoe as the sun set over the backwaters was one of the most magical moments of my life. Our floating villa was stunning — the private deck over the water was perfect for morning yoga. The food was exceptional, especially the traditional Sadya served on banana leaf. The kayaking and fishing were wonderful. Eco-friendly ethos felt genuine and thoughtful.'"
+  },
+  {
+    "id": "review_010",
+    "category": "guest_review",
+    "hotel": "City Comfort Inn",
+    "text": "Review by Ajay B. (Verified Stay, February 2025, Rating: 3/5): 'Good value for money near the railway station. Room was clean and functional. Breakfast was decent — idli, dosa, and bread. Staff were helpful with luggage storage. WiFi worked well. Nothing luxurious but everything you need for a short transit stay. Would recommend for budget travelers who just need a clean, conveniently located room in Chennai.'"
+  },
+  {
+    "id": "review_011",
+    "category": "guest_review",
+    "hotel": "The Metro Plaza Hotel",
+    "text": "Review by Vikram S. (Verified Stay, March 2025, Rating: 4/5): 'Excellent business hotel. Stayed here for a 3-day conference and the facilities were top-notch. Conference room had excellent AV setup and the catering was very good. Metro connectivity is a huge plus for getting around HITEC City. Rooms were comfortable and quiet. Free WiFi was fast and reliable. Complimentary breakfast covered a wide range of options. Executive lounge was a nice touch.'"
+  },
+  {
+    "id": "review_012",
+    "category": "guest_review",
+    "hotel": "Backwaters Bliss Resort",
+    "text": "Review by Pooja R. (Verified Stay, March 2025, Rating: 4/5): 'Absolutely serene and the perfect digital detox. The eco-friendly approach is commendable — solar panels, no single-use plastic, composting. The Ayurveda treatments were authentic and restorative. Breakfast by the water each morning was blissful. WiFi in the cottages is limited (eco-conscious choice), but strong in the main pavilion. The canoe transfer to the resort is a beautiful introduction. Wonderful for couples.'"
+  },
+  {
+    "id": "policy_001",
+    "category": "policy",
+    "hotel": "The Oceanview Grand",
+    "text": "Check-in and check-out policy at The Oceanview Grand: Standard check-in time is 2:00 PM and check-out is 12:00 PM (noon). Early check-in from 8:00 AM is available subject to room availability and may attract a half-day charge. Late check-out until 6:00 PM can be arranged for an additional fee of INR 3,000 for standard rooms. Guests arriving before 8:00 AM may store luggage complimentary and access hotel facilities. A valid government-issued photo ID and credit card are required at check-in."
+  },
+  {
+    "id": "policy_002",
+    "category": "policy",
+    "hotel": "The Oceanview Grand",
+    "text": "Cancellation and refund policy at The Oceanview Grand: Bookings cancelled 14 or more days prior to arrival receive a full refund. Cancellations made 7–13 days before arrival will be charged one night's room rate. Cancellations within 7 days of arrival or no-shows are charged 100% of the total booking value. Peak season bookings (December 20 – January 5 and Easter week) are non-refundable once confirmed. Refunds are processed within 7–10 business days to the original payment method."
+  },
+  {
+    "id": "policy_003",
+    "category": "policy",
+    "hotel": "Heritage Haveli Udaipur",
+    "text": "Cancellation policy at Heritage Haveli Udaipur: Due to the boutique nature of the property, all bookings require a 50% advance deposit at the time of reservation. Cancellations made 30 or more days prior to arrival receive a full refund of the deposit. Cancellations between 15–29 days before arrival forfeit 50% of the deposit. Cancellations within 14 days of arrival are non-refundable. Heritage weekends and festival stays (Diwali, Holi, New Year) are non-refundable at all times once confirmed."
+  },
+  {
+    "id": "policy_004",
+    "category": "policy",
+    "hotel": "Urban Nest Boutique Hotel",
+    "text": "Cancellation and pet policy at Urban Nest Boutique Hotel: Standard bookings may be cancelled free of charge up to 48 hours before arrival. Cancellations within 48 hours forfeit the first night's charge. No-shows are charged the full booking amount. Pet policy: small dogs and cats (under 10 kg) are welcome with a prior notice. A refundable pet deposit of INR 1,500 is collected at check-in. Pets must not be left unattended in rooms. Pet-friendly rooms are designated and subject to availability."
+  },
+  {
+    "id": "policy_005",
+    "category": "policy",
+    "hotel": "Summit Serenity Resort",
+    "text": "Check-in and cancellation policy at Summit Serenity Resort: Check-in is at 1:00 PM and check-out is at 11:00 AM. Adventure activity bookings must be made at least 24 hours in advance and are subject to weather conditions. Cancellations due to adverse weather or natural calamities are fully refunded. Standard cancellation: free if cancelled 7 or more days before arrival; 50% charge for cancellations 3–6 days prior; full charge within 3 days of arrival. ID proof and advance payment are mandatory for all bookings."
+  },
+  {
+    "id": "policy_006",
+    "category": "policy",
+    "hotel": "City Comfort Inn",
+    "text": "Policies at City Comfort Inn: Check-in from 12:00 PM, check-out by 11:00 AM. Extended check-out until 2:00 PM is available for INR 500 extra. Cancellations made more than 24 hours before arrival are fully refunded. Cancellations within 24 hours of arrival forfeit the full first night's charge. The hotel is strictly non-smoking within all rooms and common areas. A smoking zone is available on the terrace. ID proof (Aadhaar, Passport, or Driving Licence) is mandatory at check-in for all guests."
+  },
+  {
+    "id": "policy_007",
+    "category": "policy",
+    "hotel": "Backwaters Bliss Resort",
+    "text": "Backwaters Bliss Resort eco-policy and booking terms: In line with eco-conscious values, single-use plastic is prohibited. Guests are provided bamboo toothbrushes and biodegradable toiletries. The resort operates a strict noise curfew from 10:00 PM. Check-in is at 2:00 PM and check-out at 11:00 AM. Cancellations 21 days or more before arrival receive a full refund. Cancellations 8–20 days prior receive a 50% refund. Within 7 days, bookings are non-refundable. Floating villa guests must sign a safety waiver at check-in."
+  },
+  {
+    "id": "policy_008",
+    "category": "policy",
+    "hotel": "The Metro Plaza Hotel",
+    "text": "The Metro Plaza Hotel group booking and corporate policy: Corporate accounts receive a 15% discount on rack rates with a signed MOU. Group bookings of 10 or more rooms receive complimentary one meeting room for 4 hours. Standard cancellation policy: full refund if cancelled 72 hours before arrival. No refund for cancellations within 72 hours. For conference bookings, 30% advance is required and is non-refundable within 14 days of the event. The hotel accepts all major credit cards and UPI payments."
+  },
+  {
+    "id": "loc_001",
+    "category": "location",
+    "hotel": "The Oceanview Grand",
+    "text": "The Oceanview Grand is located in Candolim Beach, North Goa, approximately 12 km from Dabolim International Airport. Calangute Beach, the busiest stretch in Goa, is 3 km away. The famous Baga Beach is 4 km north. The Aguada Fort and Lighthouse, a 17th-century Portuguese landmark, is just 2 km away and is a must-visit for history enthusiasts. Anjuna Flea Market, held every Wednesday, is 7 km from the hotel. Panaji, the state capital, is 18 km away. Taxis and pre-booked hotel transfers are available."
+  },
+  {
+    "id": "loc_002",
+    "category": "location",
+    "hotel": "Urban Nest Boutique Hotel",
+    "text": "Urban Nest Boutique Hotel is situated on 12th Main Road, Indiranagar, Bengaluru, one of the city's most vibrant neighborhoods. Indiranagar Metro Station (Purple Line) is a 5-minute walk, connecting directly to MG Road, Majestic, and the IT corridors of Whitefield and Electronic City. Indira Gandhi International Airport (Bengaluru) is 35 km away (approximately 50 minutes by cab). Cubbon Park is 8 km away. The hotel is surrounded by 100+ restaurants, cafés, bookstores, and boutiques within a 1 km radius."
+  },
+  {
+    "id": "loc_003",
+    "category": "location",
+    "hotel": "Heritage Haveli Udaipur",
+    "text": "Heritage Haveli Udaipur is located on the eastern bank of Lake Pichola in the old city of Udaipur, Rajasthan. It is a 5-minute walk from the City Palace Museum and 10 minutes from Jagdish Temple, one of the largest temples in Rajasthan. The iconic Lake Palace (Taj Hotel) on the lake island is visible from the haveli's rooftop. Udaipur City Railway Station is 4 km away and Maharana Pratap Airport is 25 km from the property. Sunset Point (Sajjangarh/Monsoon Palace) is 8 km away."
+  },
+  {
+    "id": "loc_004",
+    "category": "location",
+    "hotel": "Summit Serenity Resort",
+    "text": "Summit Serenity Resort is located 3 km from Manali town center on the old Manali Road in Himachal Pradesh. The famous Hadimba Devi Temple is 4 km away. Solang Valley, a hub for snow activities and paragliding, is 14 km north. Rohtang Pass (subject to seasonal opening) is 51 km from the resort. The Beas River is 1 km downhill and can be reached via a forest trail from the property. Bhuntar Airport (Kullu-Manali Airport) is 50 km away. Manali Bus Stand is 4 km from the resort."
+  },
+  {
+    "id": "loc_005",
+    "category": "location",
+    "hotel": "Backwaters Bliss Resort",
+    "text": "Backwaters Bliss Resort is situated on the banks of Vembanad Lake in Kumarakom, Kerala, approximately 12 km from Kottayam city. Kumarakom Bird Sanctuary, home to migratory birds including Siberian storks, is 1.5 km from the resort. The resort is accessible by road to Kumarakom and then by a private canoe transfer (10 minutes). Kottayam Railway Station is 14 km away. Cochin International Airport is 85 km away (approximately 2 hours by road). Alleppey (Alappuzha), another famous backwaters destination, is 25 km away."
+  },
+  {
+    "id": "loc_006",
+    "category": "location",
+    "hotel": "City Comfort Inn",
+    "text": "City Comfort Inn is located on Poonamallee High Road, 500 meters from Chennai Central Railway Station, one of India's busiest railway hubs. Chennai International Airport is 18 km away (approximately 40 minutes by road or Metro). The hotel is a 10-minute walk from Government General Hospital for medical travelers. Marina Beach, the world's second longest urban beach, is 3.5 km away. Egmore Museum and National Art Gallery are 1 km from the hotel. The Chennai Metro (Central station) is 600 meters away."
+  },
+  {
+    "id": "loc_007",
+    "category": "location",
+    "hotel": "The Metro Plaza Hotel",
+    "text": "The Metro Plaza Hotel is located in HITEC City, Hyderabad's premier IT and financial services district. The hotel is directly connected to HITEC City Metro Station via a covered walkway (2-minute walk), providing rapid access to Banjara Hills (10 minutes), Jubilee Hills, and Secunderabad Railway Station (30 minutes by metro). Rajiv Gandhi International Airport is 30 km away (approximately 45 minutes). The popular Shilparamam Cultural Village is 2 km away and Cyber Towers is 1 km from the hotel."
+  },
+  {
+    "id": "loc_008",
+    "category": "location",
+    "hotel": "The Oceanview Grand",
+    "text": "The Oceanview Grand is within easy reach of popular Goa attractions. North Goa's nightlife hubs — Tito's Lane in Baga and Club LPK — are 15–20 minutes away. The Saturday Night Market at Arpora is 5 km from the hotel. For day trips, the spice plantations near Ponda are 35 km away. Dudhsagar Waterfalls, one of India's tallest waterfalls, is 60 km and can be reached by a hotel-arranged day trip. Old Goa's Basilica of Bom Jesus is 25 km away, a UNESCO World Heritage Site."
+  }
+]
