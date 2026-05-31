@@ -21,7 +21,7 @@ hotel_documents.json
          │  top-5 chunks
          ▼
 ┌─────────────────────┐
-│  Task 3: Generation │  OpenAI GPT-3.5-turbo (or mock)
+│  Task 3: Generation │  Groq 
 │  Strict prompt +    │  temperature=0, context-only rules
 │  temperature=0      │
 └────────┬────────────┘
@@ -47,7 +47,7 @@ The system accepts **any natural-language question** at runtime (not just fixed 
 |---|---|
 | `sentence-transformers` | `all-MiniLM-L6-v2` embeddings (free, local) |
 | `faiss-cpu` | Vector index (IndexFlatIP, exact cosine) |
-| `openai` | GPT-3.5-turbo for generation (optional) |
+| `groqai` | groq for generation (optional) |
 | `numpy` | Vector operations, metric computation |
 
 ---
@@ -84,7 +84,7 @@ python rag_pipeline.py
 
 ### 3. Run with real LLM answers (OpenAI)
 ```bash
-export OPENAI_API_KEY=sk-your-key-here
+export GROQ_API_KEY=sk-your-key-here
 cd src
 python rag_pipeline.py
 ```
@@ -143,7 +143,7 @@ Goodbye!
 | City Comfort Inn | descriptions, amenities, reviews, policy, location |
 | The Metro Plaza Hotel | descriptions, amenities, reviews, policy, location |
 
-Dataset is synthetic, created for this assessment. No external source.
+Dataset is synthetic. No external source.
 
 ---
 
@@ -153,7 +153,7 @@ Dataset is synthetic, created for this assessment. No external source.
 Sentence-based sliding window (window=3, overlap=1) chosen over fixed-character chunking because hotel prose must not be split mid-sentence. A 3-sentence window (~80–150 tokens) fits within the embedding model's 256-token limit while covering one coherent topic per chunk.
 
 ### Embedding model (Task 2)
-`all-MiniLM-L6-v2` — free, local, no API key required, strong semantic similarity on short-to-medium passages. 384 dimensions keeps the FAISS index small.
+`llama-3.3-70b-versatile` — free, local, no API key required, strong semantic similarity on short-to-medium passages. 384 dimensions keeps the FAISS index small.
 
 ### k=5 (Task 2)
 Covers ~3% of the corpus. Testing showed k<3 misses multi-hotel queries; k>7 introduces noise into the LLM context.
